@@ -1,0 +1,45 @@
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.FormAna.resources
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.MusteriEkle.resources
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Properties.Resources.resources
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe.config
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\Stok Takip.pdb
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\Google.Protobuf.dll
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\MySql.Data.dll
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\MySqlConnector.dll
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\System.Buffers.dll
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\System.IO.Pipelines.dll
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\System.Memory.dll
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\Google.Protobuf.pdb
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\Google.Protobuf.xml
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\MySql.Data.xml
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\MySqlConnector.xml
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\System.Buffers.xml
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\System.IO.Pipelines.xml
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\System.Memory.xml
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.CopyComplete
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\obj\Debug\Stok Takip.exe
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\obj\Debug\Stok Takip.pdb
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.MusteriListele.resources
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.ÜrünEkle.resources
+C:\Users\salih\OneDrive\Masaüstü\c#\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.ÜrünListele.resources
